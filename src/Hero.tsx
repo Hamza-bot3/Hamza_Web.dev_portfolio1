@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { FaBars, FaTimes, FaCode, FaEnvelope, FaHome } from "react-icons/fa";
+import { FaBars, FaTimes, FaCode, FaEnvelope } from "react-icons/fa";
 import HamzaImage from "./img/Hamza.jpeg";
 
 export default function HeroSection() {
